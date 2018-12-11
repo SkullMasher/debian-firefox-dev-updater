@@ -1,0 +1,1289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"local"
+			],
+			[
+				"mysq",
+				"mysql_connect〔function〕"
+			],
+			[
+				"js-",
+				"js-zilimage"
+			],
+			[
+				"tog",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"bsh",
+				"bxsh\tbox-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:color};"
+			],
+			[
+				"wrp",
+				"wrapper--800"
+			],
+			[
+				"wraper",
+				"wrapper--800"
+			],
+			[
+				"Jean",
+				"Jean-Charles"
+			],
+			[
+				"setSli",
+				"setSlideIndex"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"slick",
+				"slickSettings"
+			],
+			[
+				"event",
+				"event.preventDefault"
+			],
+			[
+				"zilio",
+				"zilioStoryOffsetTop〔variable〕"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"re",
+				"resize\t.resize()"
+			],
+			[
+				"scroll",
+				"scrollTo〔function〕"
+			],
+			[
+				"wrapper",
+				"wrapper--800"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"scr",
+				"script.js"
+			],
+			[
+				"hack",
+				"hack-regular/"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ffdeved-updater",
+			"settings":
+			{
+				"buffer_size": 307,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "firefox-dev-edition.desktop",
+			"settings":
+			{
+				"buffer_size": 606,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"newfi",
+				"ANF: New File"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"COPYN",
+				"File: Copy Name"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"DUPLI",
+				"File: Duplicate"
+			],
+			[
+				"an",
+				"ANF: New File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"setsyntascs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"enalpack",
+				"Package Control: Enable Package"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"nfrel",
+				"File: New File Relative to Current View"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"togmen",
+				"View: Toggle Menu"
+			],
+			[
+				"TOGM",
+				"View: Toggle Menu"
+			],
+			[
+				"setsyntaphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"togm",
+				"View: Toggle Menu"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"copynam",
+				"File: Copy Name"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"togmenu",
+				"View: Toggle Menu"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"marcheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"setsyxml",
+				"Set Syntax: XML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"del",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"setsymd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"bracke",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"g",
+				"GitGutter: Support Info"
+			],
+			[
+				"togmap",
+				"View: Toggle Minimap"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/skullmasher/public_html/debian-firefox-dev-updater"
+	],
+	"file_history":
+	[
+		"/home/skullmasher/public_html/debian-firefox-dev-updater/README.md",
+		"/home/skullmasher/Documents/diego-spain-iban.txt",
+		"/home/skullmasher/public_html/big-message/style.css",
+		"/home/skullmasher/public_html/big-message/index.html",
+		"/home/skullmasher/public_html/big-message/script.js",
+		"/home/skullmasher/public_html/zilio/app/js/script.js",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_zilioslides.scss",
+		"/home/skullmasher/public_html/zilio/node_modules/knacss/sass/_config/_breakpoints.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_containers.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_zilimage.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_animatecard.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_rememberzilio.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_shamefull.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/style.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/_config/_variables.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_animatedbottle.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_buttons.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/_library/_utilities.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_gradients.scss",
+		"/home/skullmasher/Music/The Aristrocrats/The Aristocrats - Tres Caballeros (2015) [FLAC]/The Aristocrats - Tres Caballeros (BM-00008).log",
+		"/home/skullmasher/Music/The Aristrocrats/The Aristocrats - Tres Caballeros (2015) [FLAC]/The Aristocrats - Tres Caballeros (BM-00008).cue",
+		"/home/skullmasher/public_html/zilio/app/sass/fonts/_fonts.scss",
+		"/home/skullmasher/public_html/big-message/in",
+		"/home/skullmasher/public_html/zilio/app/fonts/README.md",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_ziliopdf.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_footer.scss",
+		"/home/skullmasher/public_html/zilio/app/index.html",
+		"/home/skullmasher/public_html/zilio/README.md",
+		"/home/skullmasher/public_html/zilio/app/sass/_vendor/_slick-theme.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_mainheader.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/_library/_base.scss",
+		"/home/skullmasher/public_html/zilio/README.html",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_animations.scss",
+		"/home/skullmasher/public_html/zilio/app/js/jquery.scrollTo.min.js",
+		"/home/skullmasher/public_html/zilio/app/js/slick.min.js",
+		"/home/skullmasher/public_html/zilio/app/sass/_vendor/_slick.scss",
+		"/home/skullmasher/Nextcloud/freelance/Zilio/The Zilio notes.txt",
+		"/home/skullmasher/sublime-project/Zilio.sublime-project",
+		"/home/skullmasher/Nextcloud/freelance/Zilio/Zilio.pdf",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/private/commun/php/class_bdd_med.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/private/commun/php/utils.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/private/commun/php/uuid.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/public/js/common_v2.js",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/private/commun/php/gestionnaire_erreur.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/private/Model/Professionnel.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/private/Model/Pharmacien.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/private/Model/User.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/private/common.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/private/config.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/public/coordinateur/ws/insert.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/public/pds/collaboratorRegistration.php",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/README.md",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/__BDD/Update.sql",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/public/css/custom_sanofi.css",
+		"/home/skullmasher/Nextcloud/freelance/skullmasherio/blog/article-idea.txt",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/_observia/public/.htaccess",
+		"/home/skullmasher/Documents/code/observia/decisiontree/decisiontree/projects/decisiontree/public/.htaccess",
+		"/home/skullmasher/Documents/code/observia/decisiontree/index.html",
+		"/home/skullmasher/public_html/zilio/app/sass/knacss.scss",
+		"/home/skullmasher/.cache/.fr-2uwslS/slick-1.8.1/slick/slick.js",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_backgrounds.scss",
+		"/home/skullmasher/public_html/zilio/app/fonts/grandhotel-regular/fonts.css",
+		"/home/skullmasher/public_html/zilio/app/fonts/oswald-regular/fonts.css",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_icons.scss",
+		"/home/skullmasher/public_html/zilio/app/sass/components/_welcomemessage.scss",
+		"/home/skullmasher/public_html/zilio/node_modules/knacss/sass/utilities/_helpers.scss",
+		"/home/skullmasher/public_html/zilio/app/fonts/calendas-plus-regular/stylesheet.css",
+		"/home/skullmasher/public_html/zilio/app/fonts/roboto-regular/fonts.css",
+		"/home/skullmasher/public_html/zilio/app/fonts/hack-regular/fonts.css",
+		"/home/skullmasher/public_html/zilio/node_scripts/start.js",
+		"/home/skullmasher/public_html/zilio/app/css/style.css",
+		"/home/skullmasher/public_html/zilio/app/font/hack-regular/fonts.css",
+		"/home/skullmasher/public_html/zilio/app/font/alexbrush-regular/_fonts.scss",
+		"/home/skullmasher/Downloads/kek.txt",
+		"/home/skullmasher/.ssh/github_ayax.pub",
+		"/home/skullmasher/.ssh/config",
+		"/home/skullmasher/.tmux-themepack/basic.tmuxtheme",
+		"/home/skullmasher/.zshrc",
+		"/home/skullmasher/.aliases",
+		"/home/skullmasher/.tmux.conf",
+		"/home/skullmasher/.tmux"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ffdeved-updater",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"SL.65.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										134,
+										135
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										118,
+										119
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "firefox-dev-edition.desktop",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "debianffdevupdater.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"fi",
+				"firefoxdevupdater.sh"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"footersc",
+				"app/sass/components/_footer.scss"
+			],
+			[
+				"shame",
+				"app/sass/components/_shamefull.scss"
+			],
+			[
+				"remember",
+				"app/sass/components/_rememberzilio.scss"
+			],
+			[
+				"zilimage",
+				"app/sass/components/_zilimage.scss"
+			],
+			[
+				"sriptjs",
+				"app/js/script.js"
+			],
+			[
+				"container",
+				"app/sass/components/_containers.scss"
+			],
+			[
+				"breakposcss",
+				"node_modules/knacss/sass/_config/_breakpoints.scss"
+			],
+			[
+				"scriptjs",
+				"app/js/script.js"
+			],
+			[
+				"zilioslide",
+				"app/sass/components/_zilioslides.scss"
+			],
+			[
+				"shamefull",
+				"app/sass/components/_shamefull.scss"
+			],
+			[
+				"animacar",
+				"app/sass/components/_animatecard.scss"
+			],
+			[
+				"zilima",
+				"app/sass/components/_zilimage.scss"
+			],
+			[
+				"remembscss",
+				"app/sass/components/_rememberzilio.scss"
+			],
+			[
+				"zilim",
+				"app/sass/components/_zilimage.scss"
+			],
+			[
+				"script",
+				"app/js/script.js"
+			],
+			[
+				"animascss",
+				"app/sass/components/_animatedbottle.scss"
+			],
+			[
+				"stylescss",
+				"app/sass/style.scss"
+			],
+			[
+				"animbottl",
+				"app/sass/components/_animatedbottle.scss"
+			],
+			[
+				"rememberzscss",
+				"app/sass/components/_rememberzilio.scss"
+			],
+			[
+				"_varia",
+				"app/sass/_config/_variables.scss"
+			],
+			[
+				"shamefu",
+				"app/sass/components/_shamefull.scss"
+			],
+			[
+				"buttonscss",
+				"app/sass/components/_buttons.scss"
+			],
+			[
+				"shamef",
+				"app/sass/components/_shamefull.scss"
+			],
+			[
+				"style",
+				"app/sass/style.scss"
+			],
+			[
+				"animated",
+				"app/sass/components/_animatedbottle.scss"
+			],
+			[
+				"zilioslides",
+				"app/sass/components/_zilioslides.scss"
+			],
+			[
+				"scrip",
+				"app/js/script.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"sty",
+				"app/sass/style.scss"
+			],
+			[
+				"zilis",
+				"app/sass/components/_zilioslides.scss"
+			],
+			[
+				"fontscss",
+				"app/sass/fonts/_fonts.scss"
+			],
+			[
+				"foterscss",
+				"app/sass/components/_footer.scss"
+			],
+			[
+				"zilpdf",
+				"app/sass/components/_ziliopdf.scss"
+			],
+			[
+				"animatebo",
+				"app/sass/components/_animatedbottle.scss"
+			],
+			[
+				"animatedbotl",
+				"app/sass/components/_animatedbottle.scss"
+			],
+			[
+				"ainheader",
+				"app/sass/components/_mainheader.scss"
+			],
+			[
+				"_animatscss",
+				"app/sass/components/_animatedbottle.scss"
+			],
+			[
+				"slicktheme",
+				"app/sass/_vendor/_slick-theme.scss"
+			],
+			[
+				"script.js",
+				"app/js/script.js"
+			],
+			[
+				"containers",
+				"app/sass/components/_containers.scss"
+			],
+			[
+				"zilioslid",
+				"app/sass/components/_zilioslides.scss"
+			],
+			[
+				"_var",
+				"app/sass/_config/_variables.scss"
+			],
+			[
+				"containerscs",
+				"app/sass/components/_containers.scss"
+			],
+			[
+				"_buttons",
+				"app/sass/components/_buttons.scss"
+			],
+			[
+				"headerscss",
+				"app/sass/components/_mainheader.scss"
+			],
+			[
+				"zilio",
+				"app/sass/components/_zilioslides.scss"
+			],
+			[
+				"scripjs",
+				"app/js/script.js"
+			],
+			[
+				"animabotl",
+				"app/sass/components/_animatedbottle.scss"
+			],
+			[
+				"anim",
+				"app/sass/components/_animations.scss"
+			],
+			[
+				"animationscss",
+				"app/sass/components/_animations.scss"
+			],
+			[
+				"styl",
+				"app/sass/style.scss"
+			],
+			[
+				"buttons",
+				"app/sass/components/_buttons.scss"
+			],
+			[
+				"scrollto",
+				"app/js/jquery.scrollTo.min.js"
+			],
+			[
+				"buttonsscss",
+				"app/sass/components/_buttons.scss"
+			],
+			[
+				"shamefulscs",
+				"app/sass/components/_shamefull.scss"
+			],
+			[
+				"slickjs",
+				"app/js/slick.min.js"
+			],
+			[
+				"sliscss",
+				"app/sass/_vendor/_slick.scss"
+			],
+			[
+				"slickscss",
+				"app/sass/_vendor/_slick-theme.scss"
+			],
+			[
+				"indexhtml",
+				"app/index.html"
+			],
+			[
+				"_button",
+				"app/sass/components/_buttons.scss"
+			],
+			[
+				"_varscss",
+				"app/sass/_config/_variables.scss"
+			],
+			[
+				"classbddmed",
+				"decisiontree/projects/_observia/private/commun/php/class_bdd_med.php"
+			],
+			[
+				"professionphp",
+				"decisiontree/projects/decisiontree/private/Model/Professionnel.php"
+			],
+			[
+				"common",
+				"decisiontree/projects/_observia/private/common.php"
+			],
+			[
+				"modeluser",
+				"decisiontree/projects/_observia/private/Model/User.php"
+			],
+			[
+				"uuid",
+				"decisiontree/projects/_observia/private/commun/php/uuid.php"
+			],
+			[
+				"insertphar",
+				"decisiontree/projects/decisiontree/public/ws/insert_pharmacien.php"
+			],
+			[
+				"/coordinateur/ws/insert.php",
+				"decisiontree/projects/decisiontree/public/coordinateur/ws/insert.php"
+			],
+			[
+				"js/inscription_pds.js",
+				"decisiontree/projects/decisiontree/public/js/inscription_pds.js"
+			],
+			[
+				"readm",
+				"decisiontree/README.md"
+			],
+			[
+				"updatesql",
+				"decisiontree/projects/decisiontree/__BDD/Update.sql"
+			],
+			[
+				"readme",
+				"decisiontree/README.md"
+			],
+			[
+				".htaccess",
+				"decisiontree/projects/decisiontree/public/.htaccess"
+			],
+			[
+				".htacc",
+				"decisiontree/projects/_observia/public/.htaccess"
+			],
+			[
+				"utiliscss",
+				"app/sass/_library/_utilities.scss"
+			],
+			[
+				"slithemescss",
+				"app/sass/_vendor/_slick-theme.scss"
+			],
+			[
+				"containerscss",
+				"app/sass/components/_containers.scss"
+			],
+			[
+				"knac",
+				"app/sass/knacss.scss"
+			],
+			[
+				"styscss",
+				"app/sass/style.scss"
+			],
+			[
+				"fontsscss",
+				"app/sass/fonts/_fonts.scss"
+			],
+			[
+				"scri",
+				"app/js/script.js"
+			],
+			[
+				"granhotel.css",
+				"app/fonts/grandhotel-regular/fonts.css"
+			],
+			[
+				"oswal.css",
+				"app/fonts/oswald-regular/fonts.css"
+			],
+			[
+				"fonscss",
+				"app/sass/fonts/_fonts.scss"
+			],
+			[
+				"_helperscss",
+				"node_modules/knacss/sass/utilities/_helpers.scss"
+			],
+			[
+				"iconscss",
+				"app/sass/components/_icons.scss"
+			],
+			[
+				"welcomemessa",
+				"app/sass/components/_welcomemessage.scss"
+			],
+			[
+				"fontscsss",
+				"app/fonts/calendas-plus-regular/stylesheet.css"
+			],
+			[
+				"style.scss",
+				"app/sass/style.scss"
+			],
+			[
+				"welcomemess",
+				"app/sass/components/_welcomemessage.scss"
+			],
+			[
+				"stylscss",
+				"app/sass/style.scss"
+			],
+			[
+				"contaier",
+				"app/sass/components/_containers.scss"
+			],
+			[
+				"robofontcss",
+				"app/fonts/roboto-regular/fonts.css"
+			],
+			[
+				"roboto.css",
+				"app/fonts/roboto-regular/fonts.css"
+			],
+			[
+				"hack.css",
+				"app/fonts/hack-regular/fonts.css"
+			],
+			[
+				"indehtml",
+				"app/index.html"
+			],
+			[
+				"starjs",
+				"node_scripts/start.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/sublime-project/sebservicesauto.sublime-project"
+			],
+			[
+				"sebser",
+				"~/sublime-project/sebservicesauto.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

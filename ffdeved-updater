@@ -3,6 +3,7 @@ URL="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linu
 INSTALLPATH="/usr/local/src/"
 FILENAME="firefoxdev-latest.tar.bz2"
 cd $INSTALLPATH
+rm --preserve-root $FILENAME
 # -c resume uncomplete download, -O rename file
-wget -cO $FILENAME $URL
+wget -O $FILENAME $URL
 tar xvf $FILENAME
